@@ -8,6 +8,8 @@ app.use(cors());
 
 const courses = require('./data/courses.json')
 const courseDetails = require('./data/courseDetails.json')
+const checkouts = require('./data/checkouts.json')
+
 
 app.get('/', (req, res) => {
     res.send('Server is Running')
@@ -19,9 +21,14 @@ app.get('/courses' , (req, res) => {
 
 app.get('/courseDetails/:id' , (req, res) => {
     const id = req.params.id;
-    console.log(req.params);
     const selectedDetails = courseDetails.find(detail => detail.id == id)
     res.send(selectedDetails)
+})
+
+app.get('/checkout/:id' , (req, res) => {
+    const id = req.params.id;
+    const selectedCheckout = checkouts.find(checkout => checkout.id == id)
+    res.send(selectedCheckout)
 })
 
 
