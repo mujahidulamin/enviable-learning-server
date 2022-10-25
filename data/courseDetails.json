@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "course_title": "Web Design",
+      "price": 25000,
+      "image": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "description": "A strong internet presence has become essential for every new and growing business today. The first and foremost way for a business to begin online is through designing a spectacular website that can represent its core ideas and the brand. With this need for crafting cool and amazing websites, various career prospects in web designing have rapidly emerged. If you are someone with a knack for programming skills coupled with an eye for crafting stunning aesthetics, you can pursue a web designing course and gather the technical skills and knowledge required to be a web designer.",
+      "instructor_name": "MH Tammim",
+      "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK2Q5e1raQlSMuya1Sbo1EABcjXLw80JUn6w&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "course_title": "Web Development",
+        "price": 30000,
+        "image": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "introductory_description": "Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services",
+        "description": "Web development is the building and maintenance of websites; it’s the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.Web developers, or ‘devs’, do this by using a variety of coding languages. The languages they use depends on the types of tasks they are preforming and the platforms on which they are working.Web development skills are in high demand worldwide and well paid too – making development a great career option. It is one of the easiest accessible higher paid fields as you do not need a traditional university degree to become qualified.The field of web development is generally broken down into front-end (the user-facing side) and back-end (the server side). Let’s delve into the details.",
+        "instructor_name": "MD H Rahman",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2xMCxe5KbtvBhIMB0rIEeb_YfV__LWKRSA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "course_title": "Graphic Design",
+        "price": 15000,
+        "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpYyUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "When you think of graphic design what come to your mind? A painting? A book? How about a cool poster? These are just a few of the most common mental images evoked by people when asked about graphic design. None of these images provide a true definition of graphic design though. Paintings, books and posters are only “outcomes” or “mediums” of graphic design. If you search for the definition of graphic design, you’ll most likely find a generic unhelpful definition. Online dictionaries define graphic design as the art or skill of combining text and pictures in advertisements, magazines, or books. This definition is true, but it doesn’t provide much context. Graphic design is a skill, but it’s not limited to advertisements, magazines, and books. Graphic design can be physical, digital and anywhere in-between. Because of this abstractness and versatility, graphic design goes far beyond simply combining text and pictures.Graphic design focuses on communicating a message visually. Each project a graphic designer works on will have a unique message and a desired result from that message. The message may be to provide information, invoke thought, sell a product or even stimulate meaningful conversation. Graphic design is all around you. It’s about expressing an idea in the best way using visual story telling. This may sound simple, but it requires problem solving, communication, attentiveness, patience, and most importantly a good grasp of the project’s desired result.",
+        "instructor_name": "AH Nohan",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bcBmFPMYkXIFGH6O0AeWMpu4mGpBUzkZNA&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "course_title": "Digital Marketing",
+        "price": 10000,
+        "image": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGlnaXRhbCUyMG1hcmtldGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing.",
+        "instructor_name": "MD H Rahman",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsnfL7LL1fX2yWR5GQhK1CHl9apICibgRyOZ8WcKGWFV5TJlG7GcUMk_4fFoXZQwi84&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "course_title": "Animation",
+        "price": 20000,
+        "image": "https://images.unsplash.com/photo-1547194936-28214bd75193?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFuaW1hdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Animation is a method by which still figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery.",
+        "instructor_name": "MD H Rahman",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsnfL7LL1fX2yWR5GQhK1CHl9apICibgRyOZ8WcKGWFV5TJlG7GcUMk_4fFoXZQwi84&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "course_title": "Video Editing",
+        "price": 10000,
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlkZW8lMjBlZGl0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Video editing is the process of manipulating recorded video footage. While all true video editing activities are completed post-production, not all post-production operations (like CGI and sound design) fall under the category of video editing.Video editing dates back to analog recording practices. Film reels required the steps of editing, such as cutting the film and pasting it back together to add or remove frames, to be done manually. Hardware equipment was later developed so those processes didn’t need to be done by hand, but any modifications to the footage needed to be physically applied to the film itself. Today, most video is recorded digitally and can thus be edited using a video editing software. Analog forms of video editing are considered linear, whereas digital video editing is considered nonlinear.",
+        "instructor_name": "MD H Rahman",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsnfL7LL1fX2yWR5GQhK1CHl9apICibgRyOZ8WcKGWFV5TJlG7GcUMk_4fFoXZQwi84&usqp=CAU"
+      }
+
+]
