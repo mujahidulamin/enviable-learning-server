@@ -42,8 +42,8 @@
         "price": 20000,
         "image": "https://images.unsplash.com/photo-1547194936-28214bd75193?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFuaW1hdGlvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "description": "Animation is a method by which still figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery.",
-        "instructor_name": "MD H Rahman",
-        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsnfL7LL1fX2yWR5GQhK1CHl9apICibgRyOZ8WcKGWFV5TJlG7GcUMk_4fFoXZQwi84&usqp=CAU"
+        "instructor_name": "Sojeeb Islam",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmTgz-M4WBn2Pm5ZWbIp49qwvLl9AbXZxd2kBpPfWPIFzitLtSWZM-PvPxrGj5Mphxi4&usqp=CAU"
       },
       {
         "id": 6,
@@ -51,8 +51,8 @@
         "price": 10000,
         "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlkZW8lMjBlZGl0aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "description": "Video editing is the process of manipulating recorded video footage. While all true video editing activities are completed post-production, not all post-production operations (like CGI and sound design) fall under the category of video editing.Video editing dates back to analog recording practices. Film reels required the steps of editing, such as cutting the film and pasting it back together to add or remove frames, to be done manually. Hardware equipment was later developed so those processes didn’t need to be done by hand, but any modifications to the footage needed to be physically applied to the film itself. Today, most video is recorded digitally and can thus be edited using a video editing software. Analog forms of video editing are considered linear, whereas digital video editing is considered nonlinear.",
-        "instructor_name": "MD H Rahman",
-        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IsnfL7LL1fX2yWR5GQhK1CHl9apICibgRyOZ8WcKGWFV5TJlG7GcUMk_4fFoXZQwi84&usqp=CAU"
+        "instructor_name": "Arafat Hridoy",
+        "instructor_photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFo0MSPFjMKwfid32hTf-MOmBMOWrn7gnCg&usqp=CAU"
       }
 
 ]
