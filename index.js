@@ -25,9 +25,9 @@ app.get('/courseDetails/:id' , (req, res) => {
     res.send(selectedDetails)
 })
 
-app.get('/checkout/:id' , (req, res) => {
-    const id = req.params.id;
-    const selectedCheckout = checkouts.find(checkout => checkout.id == id)
+app.get('/checkout/:name' , (req, res) => {
+    const name = req.params.name;
+    const selectedCheckout = checkouts.find(checkout => checkout.course_title == name)
     res.send(selectedCheckout)
 })
 
